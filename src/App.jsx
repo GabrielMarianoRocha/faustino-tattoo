@@ -4,7 +4,7 @@ import Checkout from "./pages/Checkout.jsx";
 import Landing from "./pages/Landing.jsx";
 import ListaProductos from "./pages/ListaProductos.jsx";
 import Producto from "./pages/Producto.jsx";
-import Carrito from "./pages/carrito.jsx";
+import Carrito from "./pages/Carrito.jsx";
 import ProtectedRoute from "./components/ProtectedRoute.jsx";
 
 function App() {
