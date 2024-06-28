@@ -5,7 +5,7 @@ import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
 import Grid from "@mui/material/Grid";
 import "../css/Landing.css";
-import HeroOverlay from "../components/heroOverlay";
+import HeroOverlay from "../components/HeroOverlay";
 import { Container } from "@mui/material";
 import ChangeCircleOutlinedIcon from "@mui/icons-material/ChangeCircleOutlined";
 import LocationOnOutlinedIcon from "@mui/icons-material/LocationOnOutlined";
